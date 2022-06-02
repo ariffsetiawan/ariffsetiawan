@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.md)
+![Metrics](github-metrics.md)
 
 
 <!--
