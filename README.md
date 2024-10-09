@@ -1,6 +1,16 @@
 ### Hi there 👋
 
 <!--
+  For more details on how to add more badges, check the documentation at
+  https://shields.io (or the repository at https://github.com/badges/shields).
+-->
+
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&style=social)](https://medium.com/@ariffsetiawan)
+[![Email](https://img.shields.io/badge/Email%20Me-white?logo=gmail&style=social)](mailto:ariffsetiawan@gmail.com)
+[![Twitter](https://img.shields.io/twitter/follow/ariffsetiawan?label=Follow)](https://twitter.com/ariffsetiawan)
+
+
+<!--
 **ariffsetiawan/ariffsetiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
